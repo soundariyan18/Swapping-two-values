@@ -18,17 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+Swapping two variables
+Name: Soundariyan M N
+Register no: 22008347
+```
+```python
 a= int(input())
-
 b= int(input())
-
 temp = a
-
 a = b
-
 b = temp
-
 print('Swapped values are:',a,b)
+```
 
 ## OUTPUT!
 ![model](output.png)
